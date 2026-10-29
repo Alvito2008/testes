@@ -1,4 +1,4 @@
-# DESAFIO 🕹️ Improve This Game 🕹️
+# DESAFIO 🕹️ Improve This Game (Metroid Edition)🕹️
 
 ### Universidade Federal Rural de Pernambuco  
 **Departamento de Estatística e Informática**  
