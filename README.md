@@ -1,2 +1,2 @@
-# Iprove this game (Alvaro)
+# Improve this game (Alvaro)
 apenas um repositório teste para um projeto universitário
